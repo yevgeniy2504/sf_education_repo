@@ -1,0 +1,23 @@
+# Папка виртуального окружения
+venv/
+# Папка с кэшированными файлами
+__pycache__/
+# Файлы кэширования Python
+*.py[cod]
+# Журнал ошибок Python
+*.log
+# Файлы конфигурации IDE (например, для VSCode или PyCharm)
+.vscode/
+.idea/
+# Файлы, генерируемые при сборке
+*.egg-info/
+*.egg
+# Системные файлы
+.DS_Store
+Thumbs.db
+# Файлы конфигурации Jupyter Notebook
+.ipynb_checkpoints
+# Файлы конфигурации Jupyter Lab
+.jupyter/
+# Файлы конфигурации Jupyter Notebook
+.ipynb
