@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[Проект_#1 - Угадай число](https://github.com/yevgeniy2504/sf_education_repo/tree/start-setup/task_1)  <br>
+[Проект_#1 - Угадай число](https://github.com/yevgeniy2504/sf_education_repo/tree/main/task_1)  <br>
 [Проект_#2 - ____________] <br>
 [Проект_#3 - ____________] <br>
 [Проект_#4 - ____________] <br>
