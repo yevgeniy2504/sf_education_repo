@@ -2,6 +2,8 @@
 .venv-sf/
 venv
 .venv_sf/
+.venv
+.venv/
 # Папка с кэшированными файлами
 __pycache__/
 # Файлы кэширования Python
