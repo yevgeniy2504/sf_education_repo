@@ -1,6 +1,7 @@
 # Папка виртуального окружения
 .venv-sf/
 venv
+.venv
 .venv_sf/
 .venv
 .venv/
