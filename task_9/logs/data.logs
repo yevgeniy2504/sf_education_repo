@@ -24,3 +24,8 @@ INFO: 2026-01-29 23:05:08,813: Percentage of men: 0.653882342398853
 ERROR: 2026-01-29 23:05:08,857: Data shape is incorrect!
 ERROR: 2026-01-29 23:05:08,857: Data shape is incorrect!
 ERROR: 2026-01-29 23:05:08,857: Data shape is incorrect!
+INFO: 2026-01-31 17:56:21,518: Data
+INFO: 2026-01-31 17:56:23,993: Data shape (110527, 14)
+INFO: 2026-01-31 17:56:27,444: Percentage of women: 0.653882342398853
+INFO: 2026-01-31 17:56:30,661: Percentage of men: 0.653882342398853
+ERROR: 2026-01-31 17:56:34,529: Data shape is incorrect!
